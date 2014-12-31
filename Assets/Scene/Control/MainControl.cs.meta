@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e908ed7776eefdb4885a237bb12675ca
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - musicPrefab: {fileID: 100000, guid: 7fd545cf38ddc59428bb3df455cdca0c, type: 2}
+  - background: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

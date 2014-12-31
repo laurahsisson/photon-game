@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f9ea06dd0927a194aaffa85de4d89341
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redMaterial: {fileID: 2100000, guid: 04ab1297e3ac6dc4fa1100eec85e98e9, type: 2}
+  - blueMaterial: {fileID: 2100000, guid: 9b571503b2e8d5e419de8c1afd07b7c7, type: 2}
+  - greenMaterial: {fileID: 2100000, guid: 47cd4832f2b02ae42a90c8e0e94596f4, type: 2}
+  - greenBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

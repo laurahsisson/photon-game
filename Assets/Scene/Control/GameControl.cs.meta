@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c750b1349a79b3c45aaaa87f41375b48
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - musicPrefab: {fileID: 100000, guid: 7fd545cf38ddc59428bb3df455cdca0c, type: 2}
+  - background: {instanceID: 0}
+  - cameraMain: {instanceID: 0}
+  - cameraBall: {instanceID: 0}
+  - colorBall: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

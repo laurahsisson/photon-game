@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 337f4554ef67b5e43bd3c211401295bf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - movement: {instanceID: 0}
+  - character: {instanceID: 0}
+  - gc: {instanceID: 0}
+  - asceticRed: {fileID: 2800000, guid: ff3d8f104d1d04b4da7dd13bf7288fa8, type: 3}
+  - asceticBlue: {fileID: 2800000, guid: d6553547af3f8774fbb528887ca8a8fa, type: 3}
+  - asceticGreen: {fileID: 2800000, guid: 2b428ebddf067ab4aa2675c9dbb2a18c, type: 3}
+  - brawlerRed: {fileID: 2800000, guid: bf30b678d05dcd541bc1564ec2b82ae3, type: 3}
+  - brawlerBlue: {fileID: 2800000, guid: 3c392b777f1a7b24b90b80ab206283a5, type: 3}
+  - brawlerGreen: {fileID: 2800000, guid: 8727de0af0fd953479a9c171135feecb, type: 3}
+  - cosmonautRed: {fileID: 2800000, guid: a68eb5b0f56965241b8d3dbf79605c7a, type: 3}
+  - cosmonautBlue: {fileID: 2800000, guid: 0e48b632740da79439fe268ad3f57a4c, type: 3}
+  - cosmonautGreen: {fileID: 2800000, guid: 40cca40226a02aa4ba56d8a7a0bdb386, type: 3}
+  - medicRed: {fileID: 2800000, guid: 21c9d334d50cf584a957b0790f373507, type: 3}
+  - medicBlue: {fileID: 2800000, guid: 1d67f89bb6c74b3418140002938222e4, type: 3}
+  - medicGreen: {fileID: 2800000, guid: 474da3d3782da354faadd915f90536f0, type: 3}
+  - ninjaRed: {fileID: 2800000, guid: 81d53bfe4299b0f479fcb6029a76711d, type: 3}
+  - ninjaBlue: {fileID: 2800000, guid: 9cba9ccbc1702724995d7be4b0a626b5, type: 3}
+  - ninjaGreen: {fileID: 2800000, guid: edcfbbd74dd21a04b95ee1d1db9e043b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
